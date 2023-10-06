@@ -5,8 +5,6 @@
 /**
  * main -entry point
  *
- * descrption:The last digit
- *
  *Return (0) (success)
  */
 int main(void)
