@@ -7,7 +7,7 @@
  *
  * descrption:The last digit
  *
- *return P0 (success)
+ *Return (0) (success)
  */
 int main(void)
 {
